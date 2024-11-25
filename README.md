@@ -3,9 +3,10 @@
 # Bank Marketing Campaign
 
 Anggota Kelompok:
-Audia Khairunnisa
-Relita Manurung
-Nabila Saniaputri Trispantia
+- Audia Khairunnisa
+- Relita Manurung
+- Nabila Saniaputri Trispantia
+
 
 Tableau Link: https://public.tableau.com/views/BankMarketingCampaignDashboard_17325516392890/Dashboard1?:language=en-GB&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
